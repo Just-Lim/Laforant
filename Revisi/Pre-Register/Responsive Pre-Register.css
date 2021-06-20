@@ -1,0 +1,17 @@
+@media(max-width: 800px){
+    #username{
+        width: 80%;
+    }
+    #email{
+        width: 80%;
+    }
+    #password{
+        width: 80%;
+    }
+    #DOB{
+        width: 80%;
+    }
+    #Nationality{
+        width: 80%;
+    }
+}

@@ -1,0 +1,8 @@
+@media(max-width:800px){
+    .image-slider-protector img.current1{
+        width: 80%;
+    }
+    .image-slider-attacker img.current2{
+        width: 80%;
+    }
+}
